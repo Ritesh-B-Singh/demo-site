@@ -20,3 +20,12 @@ h2{
     font-family: 'Roboto', sans-serif;
     font-size: 1.5rem;
 }
+
+.hr{
+    border: solid 0.5px black;
+}
+
+#portfolio{
+    display: block;
+    max-width: 750px;
+}
